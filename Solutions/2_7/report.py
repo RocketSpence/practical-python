@@ -1,6 +1,7 @@
 # report.py
 import csv
 
+
 def read_portfolio(filename):
     '''
     Read a stock portfolio file into a list of dictionaries with keys
